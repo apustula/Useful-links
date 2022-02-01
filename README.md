@@ -11,3 +11,8 @@ https://dev.to/smelukov/webpack-5-asset-modules-2o3h
 ## Next.js configuration for custom webpack
 https://nextjs.org/docs/api-reference/next.config.js/introduction  
 https://nextjs.org/docs/api-reference/next.config.js/custom-webpack-config
+
+
+
+## Css word-wrap, overflow-wrap, word-break
+https://blog.logrocket.com/complete-guide-word-wrap-overflow-wrap-word-break-css/
