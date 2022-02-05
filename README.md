@@ -26,3 +26,6 @@ https://kentcdodds.com/blog/when-to-break-up-a-component-into-multiple-component
 
 https://github.com/alexis-regnaud/advanced-react-patterns/tree/main/src/patterns
 https://javascript.plainenglish.io/5-advanced-react-patterns-a6b7624267a6
+
+Hacks for lazy devs
+https://sean-warman.medium.com/best-react-hacks-for-lazy-devs-b44b533fa923
