@@ -16,3 +16,13 @@ https://nextjs.org/docs/api-reference/next.config.js/custom-webpack-config
 
 ## Css word-wrap, overflow-wrap, word-break
 https://blog.logrocket.com/complete-guide-word-wrap-overflow-wrap-word-break-css/
+
+## Advanced React concepts
+Prop drilling
+https://kentcdodds.com/blog/prop-drilling
+
+When to break up a component into multiple components
+https://kentcdodds.com/blog/when-to-break-up-a-component-into-multiple-components
+
+https://github.com/alexis-regnaud/advanced-react-patterns/tree/main/src/patterns
+https://javascript.plainenglish.io/5-advanced-react-patterns-a6b7624267a6
