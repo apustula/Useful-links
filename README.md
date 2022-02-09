@@ -35,3 +35,5 @@ https://github.com/bvaughn/react-window/issues/264#issuecomment-502905087
 
 useRef with requestAnimationFrame, useRef as persistent variable
 https://css-tricks.com/using-requestanimationframe-with-react-hooks/
+
+Different usage of useRef https://dmitripavlutin.com/react-useref-guide/
