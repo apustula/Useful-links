@@ -32,3 +32,6 @@ https://sean-warman.medium.com/best-react-hacks-for-lazy-devs-b44b533fa923
 
 Inline functions explanation
 https://github.com/bvaughn/react-window/issues/264#issuecomment-502905087
+
+useRef with requestAnimationFrame, useRef as persistent variable
+https://css-tricks.com/using-requestanimationframe-with-react-hooks/
