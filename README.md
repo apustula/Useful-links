@@ -29,3 +29,6 @@ https://javascript.plainenglish.io/5-advanced-react-patterns-a6b7624267a6
 
 Hacks for lazy devs
 https://sean-warman.medium.com/best-react-hacks-for-lazy-devs-b44b533fa923
+
+Inline functions explanation
+https://github.com/bvaughn/react-window/issues/264#issuecomment-502905087
