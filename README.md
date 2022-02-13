@@ -37,3 +37,5 @@ useRef with requestAnimationFrame, useRef as persistent variable
 https://css-tricks.com/using-requestanimationframe-with-react-hooks/
 
 Different usage of useRef https://dmitripavlutin.com/react-useref-guide/
+
+lint-staged https://medium.com/@okonetchnikov/make-linting-great-again-f3890e1ad6b8
