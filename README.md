@@ -39,3 +39,10 @@ https://css-tricks.com/using-requestanimationframe-with-react-hooks/
 Different usage of useRef https://dmitripavlutin.com/react-useref-guide/
 
 lint-staged https://medium.com/@okonetchnikov/make-linting-great-again-f3890e1ad6b8
+
+Eric Feminella
+Thoughts on Modern Web Development http://www.ericfeminella.com/blog/
+
+CSS Variables for React Devs https://www.joshwcomeau.com/css/css-variables-for-react-devs/
+
+The styled-components Happy Path https://www.joshwcomeau.com/css/styled-components/
