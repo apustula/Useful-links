@@ -17,6 +17,9 @@ https://nextjs.org/docs/api-reference/next.config.js/custom-webpack-config
 ## Css word-wrap, overflow-wrap, word-break
 https://blog.logrocket.com/complete-guide-word-wrap-overflow-wrap-word-break-css/
 
+## Css box-shadow
+https://css-tricks.com/almanac/properties/b/box-shadow/
+
 ## Advanced React concepts
 Prop drilling
 https://kentcdodds.com/blog/prop-drilling
